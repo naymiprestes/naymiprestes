@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/naymiprestes">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=naymiprestes&show_icons=true&theme=dracula&count_private=true" />
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymiprestes&layout=compact&langs_count=16&theme=dracula" /> 
+  <img width=300em height=180em src="https://github-readme-stats.vercel.app/api?username=naymiprestes&show_icons=true&theme=dracula&count_private=true" />
+  <img width=230em height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymiprestes&layout=compact&langs_count=16&theme=dracula" /> 
 </div>
   
 <div style="display: inline_block"><br>
